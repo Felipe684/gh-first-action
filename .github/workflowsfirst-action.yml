@@ -7,6 +7,6 @@ jobs:
       - name: Print hi
         run: echo "hello"
       - name: Print goodbye
-        run: echo "adios"
+        run: echo "addddios"
       
 
